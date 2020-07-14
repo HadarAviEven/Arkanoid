@@ -1,0 +1,18 @@
+START_LEVEL
+level_name:Green 3
+ball_velocities:45,500 -45,500
+background:color(green)
+paddle_speed:5
+paddle_width:80
+block_definitions:definitions/green_3_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:92
+row_height:22
+num_blocks:15
+START_BLOCKS
+-----aaaaaaaaaa
+------bbbbbbbbb
+-------cccccccc
+--------ddddddd
+END_BLOCKS
+END_LEVEL

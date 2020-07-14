@@ -1,0 +1,15 @@
+START_LEVEL
+level_name:Direct Hit
+ball_velocities:0.0001,7
+background:color(black)
+paddle_speed:5
+paddle_width:100
+block_definitions:definitions/direct_hit_block_definitions.txt
+blocks_start_x:380
+blocks_start_y:125
+row_height:100
+num_blocks:1
+START_BLOCKS
+l
+END_BLOCKS
+END_LEVEL
